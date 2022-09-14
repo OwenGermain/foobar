@@ -1,8 +1,8 @@
 #local env files
 .env*
 #files
-*.css
-*.js
+#*.css
+#*.js
 
 #misc
 .vscode
